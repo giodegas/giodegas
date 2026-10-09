@@ -4,7 +4,7 @@
 Department of Information Engineering, Computer Science and Mathematics  
 Università degli Studi dell’Aquila, Italy
 
-[Work Homepage](https://www.disim.univaq.it/GiovanniDeGasperis.html)
+[Work Homepage](https://www.disim.univaq.it/GiovanniDeGasperis)
 
 ---
 
